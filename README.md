@@ -1,7 +1,11 @@
 # parrot-trouble
 *Inico: Evaluar si el loro habla*
 ## Ingreso de datos
-    ### Hora
+### Numero a
+### Numero b
+### Estado de parámetro negativo.
+
+
 ## Proceso
     - Si la hora es antes de las 7h y el loro habla 
         retorna 1
