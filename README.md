@@ -11,5 +11,5 @@
     - Caso contrario 
         retorna 0
 ## Mostrar resultados
-    - retorna 1 o retorna 0 de acuerdo evaluado en el proceso
+    - retorna 1 o retorna 0 de acuerdo evaluado en el proceso.
 *Fin*
