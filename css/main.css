@@ -1,3 +1,6 @@
-.reloj{
-    border-radius: 100%;
+.reloj #0{
+    translate(0,0);
+}
+.reloj #0{
+    translate(20px,20px);
 }
