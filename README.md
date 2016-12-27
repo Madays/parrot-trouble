@@ -2,6 +2,9 @@
 *Inico: Evaluar si el loro habla*
 ## Ingreso de datos
     ### Hora
+    ### habla
+## Datos de salida
+    ### Resultado
 ## Proceso
     - Si la hora es antes de las 7h y el loro habla 
         retorna 1
